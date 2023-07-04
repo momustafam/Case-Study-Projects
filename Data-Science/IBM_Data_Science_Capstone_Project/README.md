@@ -89,7 +89,7 @@ To predict whether SpaceX will reuse the first stage, the following steps were t
 
 ## Presentation
 
-I didn't complete this stage because I didn't have an audience to explain the project to them and I learned how I create one in other projects
+The findings from the project were presented in a pdf presentation that showcases the insights and trends identified from the data.
 
 ## Conclusion
 
