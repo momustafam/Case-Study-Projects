@@ -1,3 +1,11 @@
+<h1 align='center'>
+Cyclistic Case-Study
+<br>
+<br>
+<img src="https://miro.medium.com/v2/resize:fit:1104/0*Dgkc35WIkcAVHbMC.jpg" alt="IBM Course" width="1000" height='500'>
+<br>
+
+
 # Cyclistic Bike-Share Project
 This project analyzes the usage patterns of Cyclistic, a fictional bike-share company in Chicago, in order to better understand how casual riders and annual members use the service differently. The goal is to use these insights to design a new marketing strategy that will convert more casual riders into annual members.
 
