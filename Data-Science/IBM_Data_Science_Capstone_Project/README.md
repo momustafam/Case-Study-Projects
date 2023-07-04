@@ -4,8 +4,6 @@
 <br>
 IBM Data Science Capstone Project
 
-This repository contains the code and documentation for my IBM Data Science Capstone Project, which is part of the IBM Data Science Professional Certificate on Coursera.
-
 # Project Overview
 
 The goal of this project was to develop a machine learning model to solve a specific business problem using location data. The project involved working with various data science libraries, such as Pandas, Numpy, Scikit-learn, and Folium, and using Python to preprocess the data, engineer features, and develop the machine learning model.
