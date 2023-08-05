@@ -1,7 +1,7 @@
 <h1 align=center> Data Science Projects </h1>
 <img src="https://th.bing.com/th/id/R.414b6e8ea82325b4eed79bb5b4a2b840?rik=7RTsAy%2f8VE2XTg&riu=http%3a%2f%2fwww.digitalvidya.com%2fwp-content%2fuploads%2f2017%2f04%2fData_Science_projects-1170x630.jpg&ehk=moj3ApS1VbZCH51LoLy8coIvENZzS7uPiD%2bc3X0FBN0%3d&risl=&pid=ImgRaw&r=0">
 
-Welcome to the data science directory. Here you can see some of my projects in data science also you can see <a href=https://www.kaggle.com/mohammedmustafa648 target=_blank> my Kaggle profile  </a>.
+Welcome to the data science directory. Here you can see some of my projects in data science also you can see <a href="https://www.kaggle.com/mohammedmustafa648" target="_blank"> my Kaggle profile  </a>.
 
 ## Projects overview
 
