@@ -3,7 +3,7 @@
 
 Welcome to the data science directory. Here you can see some of my projects in data science also you can see <a href=https://www.kaggle.com/mohammedmustafa648> my Kaggle profile  </a>.
 
-## Contents of the directory
+## Projects overview
 
 - <strong> Automatidata (case study) </strong>: The purpose of the project is helping the New York City Taxi and Limousine Commission (TLC) _ fictional company _ to develop an app that enables TLC riders to estimate the taxi fares in advance of their ride by transform their unused and stored data into useful solutions.
 
