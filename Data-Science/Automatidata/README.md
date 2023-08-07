@@ -17,4 +17,6 @@ In this scenario, I will consult with The New York City Taxi & Limousine Commiss
 
 My responsibilities as a data analytics consultant will be:
 - Structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
-- 
+
+
+<strong> Note: </strong>The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
