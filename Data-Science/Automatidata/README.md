@@ -7,7 +7,7 @@
 <a id="Introduction"></a>
 ## Introduction
 In this project, I am trying to apply my skills in data science by enabling New York City Taxi and Limousine Commission (TLC) riders
-to estimate the taxi fares in advance of their ride and investigate their unused data to gain business insights.
+to estimate the taxi fares in advance of their ride and generate valuable insights from their unused data.
 
 <a id="Project_Scenario"></a>
 ## Project Scenario
