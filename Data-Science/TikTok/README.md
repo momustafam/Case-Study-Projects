@@ -6,7 +6,7 @@
 
 <a id="Introduction"></a>
 ## Introdutcion
-In this project, I am trying to apply my skills in data science and machine learning by developing a machine learning model classifying claims made in videos submitted to the TikTok platform and investigate their unused data to gain business insights.
+In this project, I am trying to apply my skills in data science and machine learning by developing a machine learning model classifying claims made in videos submitted to the TikTok platform and generate valuable insights from their unused data.
 
 <a id="Project_Scenario"></a>
 ## Project Scenario
