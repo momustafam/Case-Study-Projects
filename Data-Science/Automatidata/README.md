@@ -1,7 +1,7 @@
 <h1 align=center> Automatidata </h1>
 
 ## Introduction
-In this project, I try to apply my skills in data science by enabling New York City Taxi and Limousine Commission (TLC) riders
+In this project, I am trying to apply my skills in data science by enabling New York City Taxi and Limousine Commission (TLC) riders
 to estimate the taxi fares in advance of their ride and investigate their unused data to gain business insights.
 
 ## Project Scenario
