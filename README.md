@@ -9,7 +9,7 @@ Welcome to the Portfolio Projects Repository! This repository contains the sourc
 ## About me
 When I was in high school, I had a great passion in the field of data science and machine learning, because I am fascinated by the ability of those sciences to make fateful decisions or evaluate them with processes that help facilitate people's lives
 
-So I studied a Bachelor's degree in Computing and Data Science at the Faculty of Computers and Data Sciences at Alexandria University.
+So I studied a Bachelor's degree in Computing and Data Science at the Faculty of Computers and Data Science at Alexandria University.
 
 Besides college, I developed my skills in data science and machine learning by studying some certificates and applying them through the work of projects and participating in Kaggle competitions.
 
