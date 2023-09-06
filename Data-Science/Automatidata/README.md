@@ -1,4 +1,5 @@
-<h1 align=center> Automatidata </h1>
+# Automatidata (case-study)
+<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/DcB4M5HRTBak-pHjrIEKcA_c155941e20c7465794baf18cc3c746f1_image.png?expiry=1694131200000&hmac=aYRyIXzDdoeSuyQorHCXjPQgyhaRzkhb6ZxfxMNYW-w"/><br>
 
 ## Table of Contents
 [Introduction](#Introduction)<br>
@@ -17,6 +18,7 @@ In this scenario, I will consult with The New York City Taxi & Limousine Commiss
 
 My responsibilities as a data analytics consultant will be:
 - Structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
+- Analyze, identify key variables, and prepare New York City TLC data for exploratory data analysis.
 
 
 <strong> Note: </strong>The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
