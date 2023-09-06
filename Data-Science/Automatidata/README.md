@@ -23,23 +23,18 @@ I am a newly-hired data professional at Automatidata, a fictional data consultin
 
 In this scenario, I will consult with The New York City Taxi & Limousine Commission to develop an app that will help users (TLC riders) estimate their taxi fares before their ride.
 
-### My responsibilities as a data analytics consultant will be:
+### My responsibilities as a data scientist will be:
 - Structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
 - Analyze, identify key variables, and prepare New York City TLC data for exploratory data analysis.
 
-### Teams and Characters at Automatidata and the New York City TLC
-#### Automatidata Team Members:
+### Automatidata Team Members:
 - Udo Bankole, Director of Data Analysis
-
 - Deshawn Washington, Data Analysis Manager
-
 - Luana Rodriquez, Senior Data Analyst
-
 - Uli King, Senior Project Manager
 
-#### New York City TLC Team Members:
+### New York City TLC Team Members:
 - Juliana Soto, Finance and Administration Department Head
-
 - Titus Nelson, Operations Manager
 
 **Note:** The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes.<br><br>
@@ -57,19 +52,6 @@ for deviding the tasks into a project proposal.
 - The analyzing stage is where we will collect, prepare, and analyze all of the data for your project.
 - The construction stage is where we will build models that will allow us access to hidden relationships locked within data.
 - The execution stage is where we will present the findings of our analysis, receive feedback, and make revisions as necessary.
-
-### The extracted tasks are:
--	Establish structure for project workflow 
--	Write a project proposal
--	Compile summary information about the data
--	Begin exploring the data
--	Data exploration and cleaning
--	Visualization building
--	Compute descriptive statistics
--	Conduct hypothesis testing
--	Build a regression model
--	Evaluate the model
--	Communicate final insights with stakeholders
 
 
 <a id="understand_the_data"></a>
