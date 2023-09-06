@@ -60,15 +60,15 @@ In the second stage of the project I will examine data provided and prepare it f
 
 ### Approach
 1. Review the data dictionary
-2. Identify the variables
-3. Examine the data structure
-4. Understand the context
-5. Assess quality of the data using standard data quality dimensions
-     - Accuracy (completeted from data engineers of New York City TLC)
-     - Completeness
-     - Consistency
-     - Currency
-     - Relavency
-     - Validity
-     - Uniqueness
-6. Share an executive summary with my team
+2. Download the data and build a dataframe
+3. Identify the variables
+4. Assess quality of the data using standard data quality dimensions
+     - Accuracy: Correct Values (completeted from data engineers of New York City TLC)
+     - Uniqueness: Recorded that are Duplicated 
+     - Consistency: Values Free from Contradiction
+     - Currency: Values up to Date
+     - Relavency: Data Items with Value Meta-data
+     - Validity: Data Containing Allowable Values
+     - Completeness: Null values
+5. Select the two most important variables for training our model (requested from my team)
+5. Share an executive summary with my team
