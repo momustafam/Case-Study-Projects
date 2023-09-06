@@ -1,4 +1,5 @@
-<h1 align=center> Waze </h1>
+# Waze (case-study)
+<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xCm_NX3ARhGby5yNHxROZg_2a48fa4727ec4aaf9bd7e063838687f1_image.png?expiry=1694131200000&hmac=6QXKzbS5rfUnmKpdH8-vAkgkQ1tRCCKR5BUvclWux2U"/>
 
 ## Table of Contents
 [Introduction](#introduction)<br>
@@ -24,6 +25,7 @@ My insights will help Waze leadership optimize the company’s retention strateg
 
 My responsibilities are:
 - Create a project proposal.
+- Inspect, organize, and prepare the data for analysis. 
 
 <strong> Note: </strong>The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred.
 And, the data shared in this project has been created for pedagogical purposes. 
