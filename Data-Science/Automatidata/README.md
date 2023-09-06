@@ -55,7 +55,9 @@ In this scenario, I will consult with The New York City Taxi & Limousine Commiss
 6. Machine Learning Models
 7. Share Final Findings
 
-## 1- Project Proposal
+
+
+## 1- Project Proposal ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/project_proposal))
 In the first stage of the project I extracted the project tasks from Automatidata leadership team meeting and used Plan, Analyze, Construct, and Execute (PACE) strategy
 for deviding the tasks into a project proposal.
 
@@ -65,8 +67,8 @@ for deviding the tasks into a project proposal.
 - The construction stage is where we will build models that will allow us access to hidden relationships locked within data.
 - The execution stage is where we will present the findings of our analysis, receive feedback, and make revisions as necessary.
 
-### The project tasks were:
--	Establish structure for project workflow
+### The extracted tasks are:
+-	Establish structure for project workflow 
 -	Write a project proposal
 -	Compile summary information about the data
 -	Begin exploring the data
@@ -77,3 +79,23 @@ for deviding the tasks into a project proposal.
 -	Build a regression model
 -	Evaluate the model
 -	Communicate final insights with stakeholders
+
+
+
+## 2- Understand The Data
+In the second stage of the project I will examine data provided and prepare it for analysis. This project uses a dataset called 2017_Yellow_Taxi_Trip_Data.csv. It contains data gathered by the New York City Taxi & Limousine Commission. For each trip, there are many different data variables gathered.
+
+### Approach
+1. Review the data dictionary
+2. Identify the variables
+3. Examine the data structure
+4. Understand the context
+5. Assess quality of the data using standard data quality dimensions
+     - Accuracy 
+     - Completeness
+     - Consistency
+     - Currency
+     - Relavency
+     - Validity
+     - Uniqueness
+6. Share an executive summary with my team
