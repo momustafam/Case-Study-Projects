@@ -91,7 +91,7 @@ In the second stage of the project I will examine data provided and prepare it f
 3. Examine the data structure
 4. Understand the context
 5. Assess quality of the data using standard data quality dimensions
-     - Accuracy 
+     - Accuracy (completeted from data engineers of New York City TLC)
      - Completeness
      - Consistency
      - Currency
