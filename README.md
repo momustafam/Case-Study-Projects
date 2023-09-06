@@ -2,11 +2,11 @@
 
 Welcome to the Portfolio Projects Repository! This repository contains the source code and related files for my projects in:
 1. Data Science
-   - Automatidata (case-study)
-   - Cyclistic (case-study)
-   - IBM Data Analyst (capstone-project)
-   - TikTok (case-study)
-   - Waze (case-study)
+   - Automatidata
+   - Cyclistic
+   - IBM Data Analyst
+   - TikTok
+   - Waze
 2. Machine learning
 3. Software Engineering
 
