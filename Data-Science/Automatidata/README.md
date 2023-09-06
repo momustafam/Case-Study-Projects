@@ -55,7 +55,7 @@ for deviding the tasks into a project proposal.
 
 
 <a id="understand_the_data"></a>
-## Understand The Data ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/understand_the_data_))
+## Understand The Data ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/understand_the_data))
 In the second stage of the project I will examine data provided and prepare it for analysis. This project uses a dataset called 2017_Yellow_Taxi_Trip_Data.csv. It contains data gathered by the New York City Taxi & Limousine Commission. For each trip, there are many different data variables gathered.
 
 ### Approach
