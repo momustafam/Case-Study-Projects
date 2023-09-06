@@ -3,27 +3,27 @@
 
 
 
-## Table of Contents
-[Introduction](#introduction)<br>
-[Project Scenario](#project_scenario)<br>
-[Project Stages](#project_stages)<br>
-
-
+# Table of Contents
+- [Introduction](#introduction)
+- [Project Scenario](#project_scenario)
+- [Project Stages](#project_stages)
+     - [Project Proposal](#project_proposal)
+     - [Understand The Data](#understand_the_data)
 
 <a id="introduction"></a>
-## Introduction
+# Introduction
 In this project, I am trying to apply my skills in data science by enabling New York City Taxi and Limousine Commission (TLC) riders
 to estimate the taxi fares in advance of their ride and generate valuable insights from their unused data.<br><br>
 
 
 
 <a id="project_scenario"></a>
-## Project Scenario
+# Project Scenario
 I am a newly-hired data professional at Automatidata, a fictional data consulting firm. Automatidata works with its clients to transform their unused and stored data into useful solutions, such as performance dashboards, customer-facing tools, strategic business insights, and more. They specialize in identifying a client’s business needs and utilizing their data to meet those business needs. 
 
 In this scenario, I will consult with The New York City Taxi & Limousine Commission to develop an app that will help users (TLC riders) estimate their taxi fares before their ride.
 
-#### My responsibilities as a data analytics consultant will be:
+### My responsibilities as a data analytics consultant will be:
 - Structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
 - Analyze, identify key variables, and prepare New York City TLC data for exploratory data analysis.
 
@@ -46,18 +46,9 @@ In this scenario, I will consult with The New York City Taxi & Limousine Commiss
 
 
 <a id="project_stages"></a>
-## Project Stages
-1. Project Proposal
-2. Understand The Data
-3. Exploratory Data Analysis (EDA)
-4. Statistical Tests
-5. Regression Modeling
-6. Machine Learning Models
-7. Share Final Findings
-
-
-
-## 1- Project Proposal ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/project_proposal))
+# Project Stages
+<a id="project_proposal"></a>
+## Project Proposal ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/project_proposal))
 In the first stage of the project I extracted the project tasks from Automatidata leadership team meeting and used Plan, Analyze, Construct, and Execute (PACE) strategy
 for deviding the tasks into a project proposal.
 
@@ -81,8 +72,8 @@ for deviding the tasks into a project proposal.
 -	Communicate final insights with stakeholders
 
 
-
-## 2- Understand The Data
+<a id="understand_the_data"></a>
+## Understand The Data ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/understand_the_data_))
 In the second stage of the project I will examine data provided and prepare it for analysis. This project uses a dataset called 2017_Yellow_Taxi_Trip_Data.csv. It contains data gathered by the New York City Taxi & Limousine Commission. For each trip, there are many different data variables gathered.
 
 ### Approach
