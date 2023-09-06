@@ -2,15 +2,15 @@
 <img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/DcB4M5HRTBak-pHjrIEKcA_c155941e20c7465794baf18cc3c746f1_image.png?expiry=1694131200000&hmac=aYRyIXzDdoeSuyQorHCXjPQgyhaRzkhb6ZxfxMNYW-w"/><br>
 
 ## Table of Contents
-[Introduction](#Introduction)<br>
-[Project Scenario](#Project_Scenario)<br>
+[Introduction](#introduction)<br>
+[Project Scenario](#project_scenario)<br>
 
-<a id="Introduction"></a>
+<a id="introduction"></a>
 ## Introduction
 In this project, I am trying to apply my skills in data science by enabling New York City Taxi and Limousine Commission (TLC) riders
 to estimate the taxi fares in advance of their ride and generate valuable insights from their unused data.
 
-<a id="Project_Scenario"></a>
+<a id="project_scenario"></a>
 ## Project Scenario
 I am a newly-hired data professional at Automatidata, a fictional data consulting firm. Automatidata works with its clients to transform their unused and stored data into useful solutions, such as performance dashboards, customer-facing tools, strategic business insights, and more. They specialize in identifying a client’s business needs and utilizing their data to meet those business needs. 
 
