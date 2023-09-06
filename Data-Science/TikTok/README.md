@@ -2,14 +2,14 @@
 <img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/HA6M1q7ZQkKp4TJRLu2L7A_738f7da548fa408bbd31d46074d4c7f1_image.png?expiry=1694131200000&hmac=KZ0jBZuR8TWizNOxdKGVBrR0kv1U3ktL0jiZQitcd6k"/><br>
 
 ## Table of Contents
-[Introduction](#Introduction)<br>
-[Project Scenario](#Project_Scenario)<br>
+[Introduction](#introduction)<br>
+[Project Scenario](#project_scenario)<br>
 
-<a id="Introduction"></a>
+<a id="introduction"></a>
 ## Introdutcion
 In this project, I am trying to apply my skills in data science and machine learning by developing a machine learning model classifying claims made in videos submitted to the TikTok platform and generate valuable insights from their unused data.
 
-<a id="Project_Scenario"></a>
+<a id="project_scenario"></a>
 ## Project Scenario
 As a data analyst on TikTok's data team, TikTok is the leading destination for short-form mobile video. The platform is built to help imaginations thrive. TikTok's mission is to create a place for inclusive, joyful, and authentic content–where people can safely discover, create, and connect.
 
