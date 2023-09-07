@@ -2,12 +2,14 @@
 
 Welcome to my Portfolio Projects Repository! This repository contains the source code and related files of some of my public projects.
 
+## Repository Projects
+
 1. Data Science Projects
-   - [Automatidata]
-   - [Cyclistic]
-   - [IBM Data Analyst]
-   - [TikTok]
-   - [Waze]
+   - [Automatidata](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata)
+   - [Cyclistic](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Cyclistic)
+   - [IBM Data Analyst](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/IBM_Data_Analyst)
+   - [TikTok](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok)
+   - [Waze](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata)
 2. Machine learning Projects
 3. Software Engineering Projects
 
