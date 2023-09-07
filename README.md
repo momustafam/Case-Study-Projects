@@ -1,6 +1,6 @@
 <h1 align=center> Portfolio Projects Repository </h1>
 
-Welcome to the Portfolio Projects Repository! This repository contains the source code and related files for my projects in:
+Welcome to my Portfolio Projects Repository! This repository contains the source code and related files for my projects in:
 1. Data Science
    - Automatidata
    - Cyclistic
