@@ -63,7 +63,6 @@ In the second stage of the project I will examine data provided and prepare it f
 2. Download the data and build a dataframe
 3. Identify the variables
 4. Assess quality of the data using standard data quality dimensions
-     - Accuracy: Correct Values (completeted from data engineers of New York City TLC)
      - Uniqueness: Recorded that are Duplicated 
      - Consistency: Values Free from Contradiction
      - Currency: Values up to Date
