@@ -1,14 +1,15 @@
 <h1 align=center> Portfolio Projects Repository </h1>
 
-Welcome to my Portfolio Projects Repository! This repository contains the source code and related files for my projects in:
-1. Data Science
+Welcome to my Portfolio Projects Repository! This repository contains the source code and related files of some of my public projects.
+
+## 1. Data Science Projects
    - Automatidata
    - Cyclistic
    - IBM Data Analyst
    - TikTok
    - Waze
-2. Machine learning
-3. Software Engineering
+## 2. Machine learning
+## 3. Software Engineering
 
 
 ## About me
