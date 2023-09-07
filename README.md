@@ -2,14 +2,14 @@
 
 Welcome to my Portfolio Projects Repository! This repository contains the source code and related files of some of my public projects.
 
-## 1. Data Science Projects
-   - Automatidata
-   - Cyclistic
-   - IBM Data Analyst
-   - TikTok
-   - Waze
-## 2. Machine learning
-## 3. Software Engineering
+1. Data Science Projects
+   - [Automatidata]
+   - [Cyclistic]
+   - [IBM Data Analyst]
+   - [TikTok]
+   - [Waze]
+2. Machine learning Projects
+3. Software Engineering Projects
 
 
 ## About me
