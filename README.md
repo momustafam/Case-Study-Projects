@@ -18,13 +18,16 @@ Welcome to my Portfolio Projects Repository! This repository contains the source
 
 A versatile professional with a passion for data science, machine learning engineering, and software development. With a strong foundation in these fields, I thrive on solving complex problems and creating innovative solutions. Here's a glimpse into my skill set and experience:
 
-Data Science:
+**Data Science:<br>
+---------------** <br>
 I possess a deep understanding of data analysis, statistical modeling, and predictive analytics. Leveraging my expertise in programming languages like Python, R, and SQL, I have developed data-driven insights and built robust machine learning models to extract valuable information from raw data. I'm well-versed in data preprocessing, feature engineering, and visualization techniques, enabling me to derive meaningful conclusions and make data-backed decisions.
 
-Machine Learning Engineering:
+**Machine Learning Engineering:<br>
+-------------------------------** <br>
 I have a solid background in machine learning algorithms, frameworks, and libraries. From designing and implementing models to fine-tuning and optimizing them, I have hands-on experience with popular tools like TensorFlow, PyTorch, and scikit-learn. I'm skilled in building end-to-end machine learning pipelines, deploying models in production environments, and integrating them into scalable systems.
 
-Software Engineering:
+**Software Engineering:<br>
+-----------------------** <br>
 In addition to my data science and machine learning expertise, I have a strong foundation in software engineering principles and practices. I have developed proficiency in programming languages such as C, Python, and JavaScript. I am experienced in designing and developing robust software solutions, utilizing best practices like object-oriented design, modular architecture, and version control systems. I'm comfortable working with frameworks and tools like Django, Flask, and Git, ensuring efficient and maintainable code.
 
 Overall, I possess a unique combination of skills and experience that allows me to bridge the gap between data analysis, machine learning, and software development. My ability to understand complex problems, identify opportunities, and deliver impactful solutions sets me apart. I thrive in collaborative environments, where I can contribute my expertise and learn from others. 
