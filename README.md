@@ -12,7 +12,7 @@ Welcome to my Portfolio Projects Repository! This repository contains the source
    - [Waze](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Waze)
 2. Machine learning Projects:
 3. Software Engineering Projects:
-   - [Simple Shell](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Software-Engineering/Simple-Shell)
+   - [Simple Shell](https://github.com/yousefayman2003/simple_shell.git)
    - [Smart Home](https://github.com/yousefayman2003/SMART-HOME)
 
 
