@@ -13,6 +13,7 @@ Welcome to my Portfolio Projects Repository! This repository contains the source
 2. Machine learning Projects:
 3. Software Engineering Projects:
    - [Simple Shell](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Software-Engineering/Simple-Shell)
+   - [Smart Home](https://github.com/yousefayman2003/SMART-HOME)
 
 
 ## About me
