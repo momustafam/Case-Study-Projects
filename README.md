@@ -24,9 +24,6 @@ A versatile professional with a passion for data science, machine learning engin
 ---------------** <br>
 I possess a deep understanding of data analysis, statistical modeling, and predictive analytics. Leveraging my expertise in programming languages like Python, R, and SQL, I have developed data-driven insights and built robust machine learning models to extract valuable information from raw data. I'm well-versed in data preprocessing, feature engineering, and visualization techniques, enabling me to derive meaningful conclusions and make data-backed decisions.
 
-**Machine Learning Engineering:<br>
--------------------------------** <br>
-I have a solid background in machine learning algorithms, frameworks, and libraries. From designing and implementing models to fine-tuning and optimizing them, I have hands-on experience with popular tools like TensorFlow, PyTorch, and scikit-learn. I'm skilled in building end-to-end machine learning pipelines, deploying models in production environments, and integrating them into scalable systems.
 
 **Software Engineering:<br>
 -----------------------** <br>
