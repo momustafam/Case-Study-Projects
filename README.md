@@ -10,8 +10,7 @@ Welcome to my Portfolio Projects Repository! This repository contains the source
    - [IBM Data Analyst](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/IBM-Data-Analyst)
    - [TikTok](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok)
    - [Waze](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Waze)
-2. Machine learning Projects:
-3. Software Engineering Projects:
+2. Software Engineering Projects:
    - [Smart Home](https://github.com/yousefayman2003/SMART-HOME)
    - [Simple Shell](https://github.com/yousefayman2003/simple_shell)
 
