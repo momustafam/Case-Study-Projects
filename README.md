@@ -17,7 +17,7 @@ Welcome to my Portfolio Projects Repository! This repository contains the source
 
 ## About me
 
-A versatile professional with a passion for data science, machine learning engineering, and software development. With a strong foundation in these fields, I thrive on solving complex problems and creating innovative solutions. Here's a glimpse into my skill set and experience:
+A versatile professional with a passion for data science, and software development. With a strong foundation in these fields, I thrive on solving complex problems and creating innovative solutions. Here's a glimpse into my skill set and experience:
 
 **Data Science:<br>
 ---------------** <br>
