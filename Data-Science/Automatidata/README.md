@@ -1,7 +1,4 @@
 # Automatidata (case-study)
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/DcB4M5HRTBak-pHjrIEKcA_c155941e20c7465794baf18cc3c746f1_image.png?expiry=1694131200000&hmac=aYRyIXzDdoeSuyQorHCXjPQgyhaRzkhb6ZxfxMNYW-w"/><br>
-
-
 
 # Table of Contents
 - [Introduction](#introduction)
@@ -9,6 +6,7 @@
 - [Project Stages](#project_stages)
      - [Project Proposal](#project_proposal)
      - [Understand The Data](#understand_the_data)
+     - [Cleaning and EDA](#cleaning_and_eda)
 
 <a id="introduction"></a>
 # Introduction
@@ -23,9 +21,10 @@ I am a newly-hired data professional at Automatidata, a fictional data consultin
 
 In this scenario, I will consult with The New York City Taxi & Limousine Commission to develop an app that will help users (TLC riders) estimate their taxi fares before their ride.
 
-### My responsibilities as a data scientist will be:
+### My responsibilities in the project:
 - Structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
 - Analyze, identify key variables, and prepare New York City TLC data for exploratory data analysis.
+- Conduct exploratory data analysis on New York City TLC data and use Tableau to create visuals for an executive summary.
 
 ### Automatidata Team Members:
 - Udo Bankole, Director of Data Analysis
@@ -70,4 +69,14 @@ In the second stage of the project I will examine data provided and prepare it f
      - Validity: Data Containing Allowable Values
      - Completeness: Null values
 5. Select the two most important variables for training our model (requested from my team)
-5. Share an executive summary with my team
+6. Share an executive summary with my team
+
+<a id="cleaning_and_eda"></a>
+## Cleaning and EDA
+In this stage, I will examine data provided and prepare it for analysis. I will also design a professional data visualization that tells a story, and help data-driven decisions for business needs.
+
+### Approach
+1. Imports, links, and loading
+2. Data Exploration and Cleaning
+3. Data Visualization
+4. Results and Evaluation
