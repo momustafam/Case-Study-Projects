@@ -1,4 +1,4 @@
-# TikTok (case-study)
+<h1 align=center> TikTok (case-study) </h1>
 
 # Table of Contents
 - [Introduction](#introduction)
