@@ -66,6 +66,7 @@ This stage aims to investigate and understand the data provided, construct a dat
 5. Select the two most important variables for training our model (requested from my team)
 6. Share an executive summary with my team
 
+<a id="cleaning_and_eda"></a>
 ## Cleaning and EDA
 In this stage, I will conduct exploratory data analysis on data for the claims classification project. I’ll also use Tableau to create visuals for an executive summary to help non-technical stakeholders engage and interact with the data.
 
