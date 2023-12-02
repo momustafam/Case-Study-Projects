@@ -1,5 +1,4 @@
 # TikTok (case-study)
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/HA6M1q7ZQkKp4TJRLu2L7A_738f7da548fa408bbd31d46074d4c7f1_image.png?expiry=1694131200000&hmac=KZ0jBZuR8TWizNOxdKGVBrR0kv1U3ktL0jiZQitcd6k"/><br>
 
 # Table of Contents
 - [Introduction](#introduction)
