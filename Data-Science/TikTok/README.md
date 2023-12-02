@@ -7,6 +7,7 @@
 - [Project Stages](#project_stages)
      - [Project Proposal](#project_proposal)
      - [Understand The Data](#understand_the_data)
+     - [Cleaning and EDA](#cleaning_and_eda)
 
 <a id="introduction"></a>
 # Introdutcion
@@ -64,3 +65,12 @@ This stage aims to investigate and understand the data provided, construct a dat
      - Completeness: Null values
 5. Select the two most important variables for training our model (requested from my team)
 6. Share an executive summary with my team
+
+## Cleaning and EDA
+In this stage, I will conduct exploratory data analysis on data for the claims classification project. I’ll also use Tableau to create visuals for an executive summary to help non-technical stakeholders engage and interact with the data.
+
+### Approach
+1. Imports, links, and loading
+2. Data Exploration and Cleaning
+3. Data Visualization
+4. Results and Evaluation
