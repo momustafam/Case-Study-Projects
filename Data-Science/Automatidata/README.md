@@ -72,7 +72,7 @@ In the second stage of the project I will examine data provided and prepare it f
 6. Share an executive summary with my team
 
 <a id="cleaning_and_eda"></a>
-## Cleaning and EDA
+## Cleaning and EDA ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/EDA))
 In this stage, I will examine data provided and prepare it for analysis. I will also design a professional data visualization that tells a story, and help data-driven decisions for business needs.
 
 ### Approach
