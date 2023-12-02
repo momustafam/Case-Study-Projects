@@ -66,7 +66,7 @@ This stage aims to investigate and understand the data provided, construct a dat
 6. Share an executive summary with my team
 
 <a id="cleaning_and_eda"></a>
-## Cleaning and EDA
+## Cleaning and EDA ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok/EDA))
 In this stage, I will conduct exploratory data analysis on data for the claims classification project. I’ll also use Tableau to create visuals for an executive summary to help non-technical stakeholders engage and interact with the data.
 
 ### Approach
