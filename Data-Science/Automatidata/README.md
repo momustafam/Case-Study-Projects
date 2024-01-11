@@ -7,6 +7,7 @@
      - [Project Proposal](#project_proposal)
      - [Understand The Data](#understand_the_data)
      - [Cleaning and EDA](#cleaning_and_eda)
+     - [Hypothesis Testing](#hypothesis_testing)
 
 <a id="introduction"></a>
 # Introduction
@@ -80,3 +81,11 @@ In this stage, I will examine data provided and prepare it for analysis. I will 
 2. Data Exploration and Cleaning
 3. Data Visualization
 4. Results and Evaluation
+
+<a id="hypothesis_testing"></a>
+## Hypothesis Testing ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/hypothesis_testing)
+In this stage I demostrate knowledge of how to prepare, create, and analyze A/B tests. My A/B test results should aim to find ways to generate more revenue for taxi cab drivers.
+
+### Approach
+1. Imports and data loading
+2. Conduct EDA and hypothesis testing
