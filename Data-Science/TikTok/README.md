@@ -77,7 +77,7 @@ In this stage, I will conduct exploratory data analysis on data for the claims c
 4. Results and Evaluation
 
 <a id="hypothesis_testing"></a>
-## Hypothesis Testing ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Automatidata/hypothesis_testing))
+## Hypothesis Testing ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/blob/main/Data-Science/TikTok/hypothesis_testing.ipynb))
 In this stage I demostrate knowledge of how to prepare, create, and analyze A/B tests. My A/B test results should aim to find ways to generate more revenue for taxi cab drivers.
 
 ### Approach
