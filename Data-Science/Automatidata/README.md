@@ -8,6 +8,7 @@
      - [Understand The Data](#understand_the_data)
      - [Cleaning and EDA](#cleaning_and_eda)
      - [Hypothesis Testing](#hypothesis_testing)
+     - [Regression Model](#regression_model)
 
 <a id="introduction"></a>
 # Introduction
@@ -89,3 +90,12 @@ In this stage I demostrate knowledge of how to prepare, create, and analyze A/B 
 ### Approach
 1. Imports and data loading
 2. Conduct EDA and hypothesis testing
+
+<a id="regression_model"></a>
+## Regression Model ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/blob/main/Data-Science/Automatidata/regression_model.ipynb))
+In this stage, I will build a multiple linear regression model to help me estimate the linear relationship between one continuous dependent variable (fare amount) and two or more independent variables and then evaluate the model. 
+
+### Approach
+1. Checking Model Assumptions
+2. Model Building and evaluation
+3. Interpreting Model Results
