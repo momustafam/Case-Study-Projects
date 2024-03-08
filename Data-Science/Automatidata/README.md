@@ -84,7 +84,7 @@ In this stage, I will examine data provided and prepare it for analysis. I will 
 4. Results and Evaluation
 
 <a id="hypothesis_testing"></a>
-## Hypothesis Testing ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/blob/main/Data-Science/Automatidata/hypothesis_testing.ipynb))
+## Hypothesis Testing
 In this stage I demostrate knowledge of how to prepare, create, and analyze A/B tests. My A/B test results should aim to find ways to generate more revenue for taxi cab drivers.
 
 ### Approach
@@ -92,7 +92,7 @@ In this stage I demostrate knowledge of how to prepare, create, and analyze A/B 
 2. Conduct EDA and hypothesis testing
 
 <a id="regression_model"></a>
-## Regression Model ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/blob/main/Data-Science/Automatidata/regression_model.ipynb))
+## Regression Model
 In this stage, I will build a multiple linear regression model to help me estimate the linear relationship between one continuous dependent variable (fare amount) and two or more independent variables and then evaluate the model. 
 
 ### Approach
