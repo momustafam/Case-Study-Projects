@@ -97,7 +97,7 @@ In this stage, I will build a multiple linear regression model to help me estima
 3. Interpreting Model Results
 
 <a id="ml_models"></a>
-## Machine Learning ([Click Here](https://github.com/momustafam/Portfolio-Projects/tree/main/Data-Science/TikTok/ml_models))
+## Machine Learning ([Click Here](https://github.com/momustafam/Portfolio-Projects/tree/main/Data-Science/TikTok/6_ml_models))
 In this stage, The goal is to build a model that predicts whether a TikTok video presents a "claim" or presents an "opinion".
 
 ### Approach
