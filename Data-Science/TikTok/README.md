@@ -41,7 +41,7 @@ As a data analyst on TikTok's data team, TikTok is the leading destination for s
 <a id="project_stages"></a>
 # Project Stages
 <a id="project_proposal"></a>
-## Project Proposal ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok/project_proposal))
+## Project Proposal ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok/1_project_proposal))
 In the first stage of the project I received emails from Mr.Rosie Mae Bradshaw and my teammate Orion Rainier to know what the project tasks are and after I knew I assigned them into milestones using PACE strategy.
 
 ### About PACE Strategy
@@ -53,7 +53,7 @@ In the first stage of the project I received emails from Mr.Rosie Mae Bradshaw a
 
 
 <a id="understand_the_data"></a>
-## Understand The Data ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok/understand_the_data))
+## Understand The Data ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok/2_understand_the_data))
 This stage aims to investigate and understand the data provided, construct a data frame in Python, perform a cursory inspection of the provided dataset, and inform TikTok data team members of your findings.
 
 ### Approach
@@ -70,7 +70,7 @@ This stage aims to investigate and understand the data provided, construct a dat
 6. Share an executive summary with my team
 
 <a id="cleaning_and_eda"></a>
-## Cleaning and EDA ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok/EDA))
+## Cleaning and EDA ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok/3_EDA))
 In this stage, I will conduct exploratory data analysis on data for the claims classification project. I’ll also use Tableau to create visuals for an executive summary to help non-technical stakeholders engage and interact with the data.
 
 ### Approach
@@ -80,7 +80,7 @@ In this stage, I will conduct exploratory data analysis on data for the claims c
 4. Results and Evaluation
 
 <a id="hypothesis_testing"></a>
-## Hypothesis Testing ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/blob/main/Data-Science/TikTok/hypothesis_testing.ipynb))
+## Hypothesis Testing ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/blob/main/Data-Science/TikTok/4_hypothesis_testing))
 In this stage I demostrate knowledge of how to prepare, create, and analyze A/B tests. My A/B test results should aim to find ways to generate more revenue for taxi cab drivers.
 
 ### Approach
@@ -88,7 +88,7 @@ In this stage I demostrate knowledge of how to prepare, create, and analyze A/B 
 2. Conduct EDA and hypothesis testing
 
 <a id="regression_model"></a>
-## Regression Model
+## Regression Model ([Click Here](https://github.com/mohammed112025/Portfolio-Projects/blob/main/Data-Science/TikTok/5_regression_analysis))
 In this stage, I will build a multiple linear regression model to help me estimate the linear relationship between one continuous dependent variable (verified_status) and two or more independent variables and then evaluate the model. 
 
 ### Approach
