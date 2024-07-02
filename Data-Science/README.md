@@ -12,5 +12,3 @@ Welcome to the data science directory. Here you can see some of my projects in d
 - <strong> IBM Data Analyst </strong>: I applied various Data Analytics skills and techniques that I have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. In this project, I assumed that I am an Associate Data Analyst who has recently joined the organization and was presented with a business challenge that requires data analysis to be performed on real-world datasets.  
 
 - <strong> TikTok (case study) </strong>: Work with the TikTok data team for developing a machine learning model for classifying claims made in videos submitted to the platform.
-
-- <strong> Waze (case study) </strong>: Work with the Waze data team to develop a machine learning model to predict user churn. Churn quantifies the number of users who have uninstalled the Waze app or stopped using the app. This project focuses on monthly user churn. An accurate model will help prevent churn, improve user retention, and grow Waze’s business.
