@@ -102,7 +102,7 @@ In this stage, I will build a multiple linear regression model to help me estima
 3. Interpreting Model Results
 
 <a id="ml_models"></a>
-## Machine Learning ([Click Here](https://github.com/momustafam/Portfolio-Projects/tree/main/Data-Science/Automatidata/ml_models))
+## Machine Learning ([Click Here](https://github.com/momustafam/Portfolio-Projects/tree/main/Data-Science/Automatidata/6_ml_models))
 
 In this stage, The goal is to build a machine learning model to predict whether or not a customer is a generous tipper.
 
