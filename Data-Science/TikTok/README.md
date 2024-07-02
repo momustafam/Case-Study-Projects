@@ -23,6 +23,10 @@ As a data analyst on TikTok's data team, TikTok is the leading destination for s
 ### With new considerations from the leadership team, I will be responsible for:
 - Creating a project proposal by assigning the required data analytical tasks into realistic milestones.
 - Preparing the data for the process of exploratory data analysis.
+- Conduct exploratory data analysis on data for the claims classification.
+- Prepare, create, and analyze A/B tests.
+- Build a multiple linear regression model to estimate the linear relationship between one continuous dependent variable (verified_status) and two or more independent variables and then evaluate the model.
+- Build a model that predicts whether a TikTok video presents a "claim" or presents an "opinion".
 
 ### Data team roles
 - Willow Jaffey- Data Science Lead
