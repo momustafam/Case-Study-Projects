@@ -9,7 +9,6 @@ Welcome to my Portfolio Projects Repository! This repository contains the source
    - [Cyclistic](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Cyclistic)
    - [IBM Data Analyst](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/IBM-Data-Analyst)
    - [TikTok](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/TikTok)
-   - [Waze](https://github.com/mohammed112025/Portfolio-Projects/tree/main/Data-Science/Waze)
 2. Software Engineering Projects:
    - [Smart Home](https://github.com/yousefayman2003/SMART-HOME)
    - [Simple Shell](https://github.com/yousefayman2003/simple_shell)
