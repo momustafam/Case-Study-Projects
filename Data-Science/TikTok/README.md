@@ -9,6 +9,8 @@
      - [Cleaning and EDA](#cleaning_and_eda)
      - [Hypothesis Testing](#hypothesis_testing)
      - [Regression Model](#regression_model)
+     - [Machine Learning Models](#ml_models)
+
 
 <a id="introduction"></a>
 # Introdutcion
@@ -93,3 +95,13 @@ In this stage, I will build a multiple linear regression model to help me estima
 1. Checking Model Assumptions
 2. Model Building and evaluation
 3. Interpreting Model Results
+
+<a id="ml_models"></a>
+## Machine Learning ([Click Here](https://github.com/momustafam/Portfolio-Projects/tree/main/Data-Science/TikTok/ml_models))
+In this stage, The goal is to build a model that predicts whether a TikTok video presents a "claim" or presents an "opinion".
+
+### Approach
+
+1. Ethical considerations
+2. Feature engineering
+3. Models Building & Evaluation
