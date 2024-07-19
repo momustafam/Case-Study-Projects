@@ -28,6 +28,9 @@ In this scenario, I will consult with The New York City Taxi & Limousine Commiss
 - Structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
 - Analyze, identify key variables, and prepare New York City TLC data for exploratory data analysis.
 - Conduct exploratory data analysis on New York City TLC data and use Tableau to create visuals for an executive summary.
+- Investigate TLC’s dataset to determine which hypothesis testing method best serves the data and the TLC project.
+- Determine the type of regression model that is needed and develop one using the TLC data.
+- Leading these final tasks, which include feature engineering, model development, and evaluation. 
 
 ### Automatidata Team Members:
 - Udo Bankole, Director of Data Analysis
