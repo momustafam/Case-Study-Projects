@@ -1,6 +1,6 @@
 <h1 align=center> Portfolio Projects Repository </h1>
 
-Welcome to my Portfolio Projects Repository! This repository contains the source code and related files of some of my public projects.
+Welcome to my Case-Study Projects Repository! This repository contains the source code and related files of some of my public projects.
 
 ## Repository Projects
 
