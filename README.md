@@ -1,4 +1,4 @@
-<h1 align=center> Portfolio Projects Repository </h1>
+<h1 align=center> Case Study Projects Repository </h1>
 
 Welcome to my Case-Study Projects Repository! This repository contains the source code and related files of some of my public projects.
 
